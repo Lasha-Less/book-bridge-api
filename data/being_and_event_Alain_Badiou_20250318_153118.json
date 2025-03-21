@@ -1,0 +1,310 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "volumeInfo": {
+        "title": "Being and Event",
+        "authors": [
+          "Alain Badiou"
+        ],
+        "publisher": "A&C Black",
+        "publishedDate": "2007-07-15",
+        "description": "A translation of one of the single most important works of recent French philosophy, Badiou's magnum opus, and a must-have for his growing following and anyone interested in contemporary Continental thought.",
+        "categories": [
+          "Philosophy"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wo_UAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wo_UAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "infoLink": "http://books.google.nl/books?id=wo_UAwAAQBAJ&dq=intitle:being+and+event+inauthor:Alain+Badiou&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Being_and_Event.html?hl=&id=wo_UAwAAQBAJ"
+      },
+      "accessInfo": {
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/Being_and_Event-sample-pdf.acsm?id=wo_UAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        }
+      }
+    },
+    {
+      "volumeInfo": {
+        "title": "Logics of Worlds",
+        "authors": [
+          "Alain Badiou"
+        ],
+        "publisher": "Bloomsbury Publishing",
+        "publishedDate": "2019-01-24",
+        "description": "Logics of Worlds is the sequel to Alain Badiou's masterpiece, Being and Event. Tackling the questions that had been left open by Being and Event, and answering many of his critics in the process, Badiou supplements his pioneering treatment of multiple being with a daring and complex theory of the worlds in which truths and subjects make their mark - what he calls a materialist dialectic. Drawing on his most ambitious philosophical predecessors - Leibniz, Kant, Hegel, Kierkegaard, Lacan, Deleuze – Badiou ends this important later work with an impassioned call to 'live for an Idea'.",
+        "categories": [
+          "Philosophy"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AJODDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AJODDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "infoLink": "https://play.google.com/store/books/details?id=AJODDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=AJODDwAAQBAJ"
+      },
+      "accessInfo": {
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/Logics_of_Worlds-sample-epub.acsm?id=AJODDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/Logics_of_Worlds-sample-pdf.acsm?id=AJODDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        }
+      }
+    },
+    {
+      "volumeInfo": {
+        "title": "The Immanence of Truths",
+        "authors": [
+          "Alain Badiou"
+        ],
+        "publisher": "Bloomsbury Publishing",
+        "publishedDate": "2022-05-19",
+        "description": "The Being and Event trilogy is the philosophical basis of Alain Badiou's entire oeuvre. It is formed of three major texts, which constitute a kind of metaphysical saga: Being and Event (1988). ), Logics of the Worlds (2006) and finally The Immanence of Truths, which he has been working on for 15 years. The new volume reverses the perspective adopted in Logics of Worlds. Where in that book, Badiou saw fit to analyze how truths, qua events, appear from the perspective of particular worlds that by definition exclude them, in The Immanence of Truths Badiou asks instead how the irruption of truths transforms the worlds within which they by necessity must arise. An emphasis on regularity and continuity has given way to an attempt, one unquestionable in its philosophical power and implications, to formalize rupture and reconfiguration. The Being and Event trilogy is a unique and ambitious work that reveals how truths can be at once context-specific and universal, situational and eternal.",
+        "categories": [
+          "Philosophy"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IZRZEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IZRZEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "infoLink": "https://play.google.com/store/books/details?id=IZRZEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=IZRZEAAAQBAJ"
+      },
+      "accessInfo": {
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/The_Immanence_of_Truths-sample-pdf.acsm?id=IZRZEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        }
+      }
+    },
+    {
+      "volumeInfo": {
+        "title": "Parmenides",
+        "authors": [
+          "Alain Badiou"
+        ],
+        "publisher": "Columbia University Press",
+        "publishedDate": "2025-05-20",
+        "description": "Alain Badiou’s 1985 seminar on Parmenides initiated his ongoing dialogue with the pre-Socratic philosopher and set out some of the foundational ideas of his own major philosophical works, including Being and Event. The seminar provides both a new understanding of the importance of Parmenides in establishing the fundamental terms of philosophy and a vital account of the intimate relationship between philosophy and mathematics. For Badiou, Parmenides inaugurates the history of philosophy by linking being, thinking, and nonbeing in a “Borromean knot”—a linkage in which the relationship between any two terms requires the mediation of a third. Badiou traces the permutations of this connection among fundamental concepts as it was transmitted to later thinkers, including Plato, Aristotle, Descartes, Hegel, and Heidegger. He also argues that Parmenides’ account of philosophy establishes a new kind of formal reasoning that, like mathematics, breaks with the Greek mythic and poetic traditions and their assumption that truth derives from sensory experience. An important prehistory for Being and Event, this seminar demonstrates Badiou’s unparalleled ability to recast the fundamental questions of philosophy.",
+        "categories": [
+          "Philosophy"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Wz0pEQAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Wz0pEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "infoLink": "http://books.google.nl/books?id=Wz0pEQAAQBAJ&dq=intitle:being+and+event+inauthor:Alain+Badiou&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Parmenides.html?hl=&id=Wz0pEQAAQBAJ"
+      },
+      "accessInfo": {
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        }
+      }
+    },
+    {
+      "volumeInfo": {
+        "title": "Mathematics of the Transcendental",
+        "authors": [
+          "Alain Badiou"
+        ],
+        "publisher": "A&C Black",
+        "publishedDate": "2014-01-16",
+        "description": "In Mathematics of the Transcendental, Alain Badiou painstakingly works through the pertinent aspects of category theory, demonstrating their internal logic and veracity, their derivation and distinction from set theory, and the 'thinking of being'. In doing so he sets out the basic onto-logical requirements of his greater and transcendental logics as articulated in his magnum opus, Logics of Worlds. Previously unpublished in either French or English, Mathematics of the Transcendental provides Badiou's readers with a much-needed complete elaboration of his understanding and use of category theory. The book is vital to understanding the mathematical and logical basis of his theory of appearing as elaborated in Logics of Worlds and other works and is essential reading for his many followers.",
+        "categories": [
+          "Philosophy"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HrIVAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HrIVAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "infoLink": "https://play.google.com/store/books/details?id=HrIVAgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=HrIVAgAAQBAJ"
+      },
+      "accessInfo": {
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/Mathematics_of_the_Transcendental-sample-epub.acsm?id=HrIVAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/Mathematics_of_the_Transcendental-sample-pdf.acsm?id=HrIVAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        }
+      }
+    },
+    {
+      "volumeInfo": {
+        "title": "The One",
+        "authors": [
+          "Alain Badiou"
+        ],
+        "publisher": "Columbia University Press",
+        "publishedDate": "2023-07-04",
+        "description": "Alain Badiou’s 1983–1984 lecture series on “the One” is the earliest of his seminars that he has chosen to publish. It focuses on the philosophical concept of oneness in the works of Descartes, Plato, and Kant—a crucial foil for his signature metaphysical concept, the multiple. Badiou declares that there is no “One”: there is no fundamental unit of being; being is inherently multiple. What is novel in Badiou’s view of multiplicity is his reliance on mathematics, and set theory in particular. A set is a collection of things—yet, as he observes, it often is taken to “count as one” operationally for the purposes of mathematical transformations. In this seminar, distinguishing between “the One” and “counting as one” emerges as essential to Badiou’s ontological project. His analysis of reflections on oneness in Descartes, Plato, and Kant prefigures core arguments of his defining work, Being and Event. Showcasing the seeds of Badiou’s key ideas and later thought, The One features singular readings, breathtaking theorizations, and frequently astonishing offhand remarks.",
+        "categories": [
+          "Philosophy"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lve2EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lve2EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "infoLink": "https://play.google.com/store/books/details?id=lve2EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=lve2EAAAQBAJ"
+      },
+      "accessInfo": {
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/The_One-sample-epub.acsm?id=lve2EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/The_One-sample-pdf.acsm?id=lve2EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        }
+      }
+    },
+    {
+      "volumeInfo": {
+        "title": "Conditions",
+        "authors": [
+          "Alain Badiou"
+        ],
+        "publisher": "Bloomsbury Publishing",
+        "publishedDate": "2008-11-07",
+        "description": "Beginning with a sustained critique of the so-called 'end of philosophy', Badiou goes on to propose a new definition of philosophy, one that is tested with respect to both its origin, in Plato, and its contemporary state. The essays that follow are ordered according to what Badiou sees as the four great conditions of philosophy: philosophy and poetry, philosophy and mathematics, philosophy and politics, and philosophy and love. Conditions provides an illuminating reworking of all the major theories in Being and Event. In so doing, Badiou not only develops the complexity of the concepts central to Being and Event but also adds new ones to his already formidable arsenal. The essays in Conditions reveal the extraordinary and systematic nature of Badiou's philosophical enterprise.",
+        "categories": [
+          "Philosophy"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_ay6BwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_ay6BwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "infoLink": "https://play.google.com/store/books/details?id=_ay6BwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_ay6BwAAQBAJ"
+      },
+      "accessInfo": {
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/Conditions-sample-pdf.acsm?id=_ay6BwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        }
+      }
+    },
+    {
+      "volumeInfo": {
+        "title": "Badiou and His Interlocutors",
+        "authors": [
+          "Alain Badiou"
+        ],
+        "publisher": "Bloomsbury Publishing",
+        "publishedDate": "2018-01-25",
+        "description": "This is a unique collection presenting work by Alain Badiou and commentaries on his philosophical theories. It includes three lectures by Badiou, on contemporary politics, the infinite, cinema and theatre and two extensive interviews with Badiou – one concerning the state of the contemporary situation and one wide ranging interview on all facets of his work and engagements. It also includes six interventions on aspects of Badiou's work by established scholars in the field, addressing his concept of history, Lacan, Cinema, poetry, and feminism; and four original essays by young and established scholars in Australia and New Zealand addressing the key concerns of Badiou's 2015 visit to the Antipodal region and the work he presented there. With new material by Badiou previously unpublished in English this volume is a valuable overview of his recent thinking. Critical responses by distinguished and gifted Badiou scholars writing outside of the European context make this text essential reading for anyone interested in the development and contemporary reception of Badiou's thought.",
+        "categories": [
+          "Art"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=N_lBDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=N_lBDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "infoLink": "https://play.google.com/store/books/details?id=N_lBDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=N_lBDwAAQBAJ"
+      },
+      "accessInfo": {
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/Badiou_and_His_Interlocutors-sample-pdf.acsm?id=N_lBDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        }
+      }
+    },
+    {
+      "volumeInfo": {
+        "title": "Theoretical Writings",
+        "authors": [
+          "Alain Badiou"
+        ],
+        "publisher": "Bloomsbury Publishing",
+        "publishedDate": "2004-06-03",
+        "description": "Alain Badiou is arguably the most important and original philosopher working in France today. Swimming against the tide of postmodern orthodoxy, Badiou's work revitalizes philosophy's perennial attempt to provide a systematic theory of truth. This volume presents for the first time in English a comprehensive overview of Badiou's ambitious system. Beginning with Badiou's controversial assertion that ontology is mathematics, this volume sets out his theory of the emergence of truths from the singular relationship between a subject and an event. Also included is a substantial extract from Badiou's forthcoming work on the logics of appearance and the concept of world, presented here in advance of its French publication. Ranging from startling re-readings of canonical figures (Spinoza, Kant and Hegel) to decisive engagements with poetry, psychoanalysis and radical politics, Theoretical Writings is an indispensable introduction to one of the great thinkers of our time. The volume also features a preface written by the author especially for this collection.",
+        "categories": [
+          "Philosophy"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xsoHtCczbCkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xsoHtCczbCkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "infoLink": "https://play.google.com/store/books/details?id=xsoHtCczbCkC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=xsoHtCczbCkC"
+      },
+      "accessInfo": {
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/Theoretical_Writings-sample-epub.acsm?id=xsoHtCczbCkC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/Theoretical_Writings-sample-pdf.acsm?id=xsoHtCczbCkC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        }
+      }
+    },
+    {
+      "volumeInfo": {
+        "title": "Theory of the Subject",
+        "authors": [
+          "Alain Badiou"
+        ],
+        "publisher": "A&C Black",
+        "publishedDate": "2009-07-28",
+        "description": "Badiou is widely considered to be France's most important and exciting contemporary thinker. Much of Badiou's earlier work (including Being and Event) can only be fully understood with a clear grasp of Theory of the Subject, one of his most important works.",
+        "categories": [
+          "Psychology"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zQsuq8rARioC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zQsuq8rARioC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "infoLink": "http://books.google.nl/books?id=zQsuq8rARioC&dq=intitle:being+and+event+inauthor:Alain+Badiou&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Theory_of_the_Subject.html?hl=&id=zQsuq8rARioC"
+      },
+      "accessInfo": {
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/Theory_of_the_Subject-sample-epub.acsm?id=zQsuq8rARioC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/Theory_of_the_Subject-sample-pdf.acsm?id=zQsuq8rARioC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        }
+      }
+    }
+  ]
+}

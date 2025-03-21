@@ -1,0 +1,299 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "volumeInfo": {
+        "title": "Plato's Apology of Socrates",
+        "authors": [
+          "Paul Allen Miller",
+          "Charles Platter"
+        ],
+        "publisher": "University of Oklahoma Press",
+        "publishedDate": "2012-11-13",
+        "description": "The significance of Plato’s Apology of Socrates is impossible to overestimate. An account of the famous trial of Socrates in 399 b.c., it appeals to historians, philosophers, political scientists, classicists, and literary critics. It is also essential reading for students of ancient Greek. This new commentary on Plato’s canonical work is designed to accommodate the needs of students in intermediate-level Greek classes, where they typically encounter the Apology for the first time. Paul Allen Miller and Charles Platter, two highly respected classicists and veteran instructors, present the Apology in its traditional thirty-three-chapter structure. They amplify the text with running commentary and glosses of unfamiliar words at the bottom of each page; brief chapter introductions to relevant philosophical, historical, and rhetorical issues; and a separate series of thought-provoking essays, one on each chapter. The essays can serve as bases for class discussions or as starting points for paper topics or general reflection. By integrating background material into the text at regular intervals rather than front-loading it in a lengthy initial overview or burying it in back-of-the-book endnotes, the authors offer students a rich encounter with the text. Their commentary incorporates the latest research on both the trial of Socrates and Plato’s version of it, and it engages major philosophical issues from a contemporary perspective. This book is not only a much-needed aid for students of Greek. It is also the basis of a complete course on the Apology.",
+        "categories": [
+          "Fiction"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wi8xrHGZrS0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wi8xrHGZrS0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "infoLink": "http://books.google.nl/books?id=wi8xrHGZrS0C&dq=intitle:Apology+Plato&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Plato_s_Apology_of_Socrates.html?hl=&id=wi8xrHGZrS0C"
+      },
+      "accessInfo": {
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/Plato_s_Apology_of_Socrates-sample-pdf.acsm?id=wi8xrHGZrS0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        }
+      }
+    },
+    {
+      "volumeInfo": {
+        "title": "Apology",
+        "authors": [
+          "By Plato"
+        ],
+        "publisher": "BookRix",
+        "publishedDate": "2019-06-15",
+        "description": "Apology is Plato's version of the speech given by Socrates as he defended himself in 399 BC against the charges of \"corrupting the young, and by not believing in the gods in whom the city believes, but in other daimonia that are novel.\" Socrates begins by telling the jury that their minds were poisoned by his enemies when they were young and impressionable. He says his reputation for sophistry comes from his enemies, all of whom are envious of him, and malicious. He says they must remain nameless, except for Aristophanes, the comic poet. He later answers the charge that he has corrupted the young by arguing that deliberate corruption is an incoherent idea. Socrates says that all these false accusations began with his obedience to the oracle at Delphi. He tells how Chaerephon went to the Oracle at Delphi, to ask if anyone was wiser than Socrates. When Chaerephon reported to Socrates that the god told him there is none wiser, Socrates took this as a riddle. He himself knew that he had no wisdom \"great or small\" but that he also knew that it is against the nature of the gods to lie. Socrates then went on a \"divine mission\" to solve the paradox (that an ignorant man could also be the wisest of all men) and to clarify the meaning of the Oracles' words. He systematically interrogated the politicians, poets and craftsmen. Socrates determined that the politicians were imposters, and the poets did not understand even their own poetry, like prophets and seers who do not understand what they say. Craftsmen proved to be pretentious too, and Socrates says that he saw himself as a spokesman for the oracle (23e). He asked himself whether he would rather be an impostor like the people he spoke to, or be himself. Socrates tells the jury that he would rather be himself than anyone else.",
+        "categories": [
+          "Philosophy"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QbqzAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QbqzAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "infoLink": "https://play.google.com/store/books/details?id=QbqzAwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=QbqzAwAAQBAJ"
+      },
+      "accessInfo": {
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        }
+      }
+    },
+    {
+      "volumeInfo": {
+        "title": "Apology, Crito, and Phaedo of Socrates",
+        "authors": [
+          "Plato"
+        ],
+        "publishedDate": "2013-01-22",
+        "description": "Apology, Crito, and Phaedo of Socrates is a work by Plato now brought to you in this new edition of the timeless classic.",
+        "categories": [
+          "Dialogues"
+        ],
+        "language": "en",
+        "infoLink": "http://books.google.nl/books?id=KjZ0swEACAAJ&dq=intitle:Apology+Plato&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Apology_Crito_and_Phaedo_of_Socrates.html?hl=&id=KjZ0swEACAAJ"
+      },
+      "accessInfo": {
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        }
+      }
+    },
+    {
+      "volumeInfo": {
+        "title": "Plato's Apology and Socrates and Crito",
+        "authors": [
+          "Plato"
+        ],
+        "publishedDate": "1886",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yPROAQAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yPROAQAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "el",
+        "infoLink": "https://play.google.com/store/books/details?id=yPROAQAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=yPROAQAAIAAJ"
+      },
+      "accessInfo": {
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.nl/books/download/Plato_s_Apology_and_Socrates_and_Crito.epub?id=yPROAQAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.nl/books/download/Plato_s_Apology_and_Socrates_and_Crito.pdf?id=yPROAQAAIAAJ&hl=&output=pdf&sig=ACfU3U3RxsGWj4LYWc_JGGLLMQUTKfV8Kw&source=gbs_api"
+        }
+      }
+    },
+    {
+      "volumeInfo": {
+        "title": "Apology",
+        "authors": [
+          "Plato"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2013-12-18",
+        "description": "The Apology is Plato's version of the speech given by Socrates as he defended himself in 399 BC against the charges of \"corrupting the young, and by not believing in the gods in whom the city believes, but in other daimonia that are novel . Apology here has its earlier meaning (now usually expressed by the word apologia ) of speaking in defense of a cause or of one's beliefs or actions. The Apology is divided into three parts. The first part is Socrates' own defense of himself and includes the most famous parts of the text, namely his recounting of the Oracle at Delphi and his cross-examination of Meletus. The second part is the verdict, and the third part is the sentencing",
+        "categories": [
+          "Philosophy"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9i-YDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9i-YDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "infoLink": "https://play.google.com/store/books/details?id=9i-YDAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9i-YDAAAQBAJ"
+      },
+      "accessInfo": {
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/Apology-sample-epub.acsm?id=9i-YDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        }
+      }
+    },
+    {
+      "volumeInfo": {
+        "title": "The Composition of Plato's Apology",
+        "authors": [
+          "R. Hackforth"
+        ],
+        "publisher": "Cambridge University Press",
+        "publishedDate": "2014-10-23",
+        "description": "Originally published in 1933, this book examines the arguments surrounding the relation of Plato's Apology to the actual speech delivered by Socrates at his trial. Hackforth compares Plato's account to that of Xenophon, and examines Plato's possible philosophical or historical motives in the creation of his account of Socrates' defence. This book will be of value to anyone with an interest in Platonic or Socratic philosophy.",
+        "categories": [
+          "Philosophy"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=i4txBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=i4txBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "infoLink": "http://books.google.nl/books?id=i4txBAAAQBAJ&dq=intitle:Apology+Plato&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Composition_of_Plato_s_Apology.html?hl=&id=i4txBAAAQBAJ"
+      },
+      "accessInfo": {
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/The_Composition_of_Plato_s_Apology-sample-pdf.acsm?id=i4txBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        }
+      }
+    },
+    {
+      "volumeInfo": {
+        "title": "Plato's Apology of Socrates, Crito, and Phaedo",
+        "authors": [
+          "Plato"
+        ],
+        "publishedDate": "1834",
+        "categories": [
+          "Philosophy"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=A4ANAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=A4ANAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "la",
+        "infoLink": "https://play.google.com/store/books/details?id=A4ANAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=A4ANAAAAYAAJ"
+      },
+      "accessInfo": {
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.nl/books/download/Plato_s_Apology_of_Socrates_Crito_and_Ph.epub?id=A4ANAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.nl/books/download/Plato_s_Apology_of_Socrates_Crito_and_Ph.pdf?id=A4ANAAAAYAAJ&hl=&output=pdf&sig=ACfU3U1J77l6fSQoevDKWGdAArd1rTRXQQ&source=gbs_api"
+        }
+      }
+    },
+    {
+      "volumeInfo": {
+        "title": "Plato: The Apology of Socrates and Xenophon: The Apology of Socrates",
+        "authors": [
+          "Plato",
+          "Xenophon"
+        ],
+        "publisher": "Cambridge University Press",
+        "publishedDate": "2019-04-18",
+        "description": "In 399 BC Socrates was prosecuted, convicted, sentenced to death and executed. These events were the culmination of a long philosophical career, a career in which, without writing a word, he established himself as the figure whom all philosophers of the next few generations wished to follow. The Apologies (or Defence Speeches) by Plato and Xenophon are rival accounts of how, at his trial, Socrates defended himself and his philosophy. This edition brings together both Apologies within a single volume. The commentary answers literary, linguistic and philosophical questions in a way that is suitable for readers of all levels, helping teachers and students engage more closely with the Greek texts. The introduction examines Socrates himself, the literature generated by his trial, Athenian legal procedures, his guilt or innocence of the crimes for which he was executed, and the rivalry between Xenophon and Plato.",
+        "categories": [
+          "Literary Collections"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=g_adDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=g_adDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "infoLink": "https://play.google.com/store/books/details?id=g_adDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=g_adDwAAQBAJ"
+      },
+      "accessInfo": {
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/Plato_The_Apology_of_Socrates_and_Xenoph-sample-pdf.acsm?id=g_adDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        }
+      }
+    },
+    {
+      "volumeInfo": {
+        "title": "Readings of Plato's Apology of Socrates",
+        "authors": [
+          "Vivil Valvik Haraldsen",
+          "Olof Pettersson",
+          "Oda E. Wiese Tvedt"
+        ],
+        "publisher": "Lexington Books",
+        "publishedDate": "2017-12-28",
+        "description": "In Plato’s Apology of Socrates we see a philosopher in collision with his society—a society he nonetheless claims to have benefited through his philosophic activity. It has often been asked why democratic Athens condemned a philosopher of Socrates' character to death. This anthology examines the contribution made by Plato’s Apology of Socrates to our understanding of the character of Socrates as well as of the conception of philosophy Plato attributes to him. The 11 chapters offer complementary readings of the Apology, which through their different approaches demonstrate the richness of this Platonic work as well as the various layers that can be discerned in its presentation of Socrates. While the contributions display variety in both topics and angles, they also share common features: An awareness of the importance of the literary aspects of Plato’s courtroom drama, as well as a readiness to take into consideration the historical context of the work. Thereby they provide contributions to a manifold understanding of the aims and impact of the work, without losing sight of the philosophical questions that are raised by Socrates’ confrontational and unrepentant defense speech. Allowing the character of Socrates to take center stage, the chapters of this volume examine the philosopher in relation to ethics, and to politics and democracy, as well as to the ideology, religion, and virtue shared by the Athenians. Readers will also find reflections on classical Platonic subjects such as the nature of Socratic philosophical inquiry and of philosophy itself, as well as on the notoriously ambiguous relationships between philosophy, sophistry and rhetoric, and their several relationships to truth and justice. The anthology emphasizes and explores the equivocal and sometimes problematic aspects of Socrates as Plato presents him in the Apology, illuminating why the Athenians let the verdict fall as they did, while drawing out problematic features of Athenian society and its reaction to Socrates’ philosophic activity, thereby encouraging reflection on the role philosophy can play in our modern societies.",
+        "categories": [
+          "Philosophy"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RHhGDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RHhGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "infoLink": "https://play.google.com/store/books/details?id=RHhGDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=RHhGDwAAQBAJ"
+      },
+      "accessInfo": {
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/Readings_of_Plato_s_Apology_of_Socrates-sample-epub.acsm?id=RHhGDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/Readings_of_Plato_s_Apology_of_Socrates-sample-pdf.acsm?id=RHhGDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        }
+      }
+    },
+    {
+      "volumeInfo": {
+        "title": "Plato's Apology of Socrates",
+        "authors": [
+          "S.R. Slings"
+        ],
+        "publisher": "BRILL",
+        "publishedDate": "2018-07-17",
+        "description": "There have been many recent studies on the Apology. This book differs from them in that it attempts a synthesis of philosophical and literary approaches. A great deal of attention is paid to the philosophical and religious views that are present—often implicitly—in the text; they are much closer to the philosophy of Plato's main works than is usually assumed. But the Apology is also analysed as a rhetorical text: its close relationship with fourth-century rhetorical theory and practice is highlighted. The analyses of the various parts of the speech are followed by a detailed line-by-line commentary. The work was started by E. de Strycker, S.J.; after his death, it was revised and completed by S.R. Slings.",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zd2mDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zd2mDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "infoLink": "http://books.google.nl/books?id=zd2mDwAAQBAJ&dq=intitle:Apology+Plato&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Plato_s_Apology_of_Socrates.html?hl=&id=zd2mDwAAQBAJ"
+      },
+      "accessInfo": {
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/Plato_s_Apology_of_Socrates-sample-pdf.acsm?id=zd2mDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        }
+      }
+    }
+  ]
+}

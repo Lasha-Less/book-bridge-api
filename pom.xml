@@ -52,7 +52,6 @@
 			<groupId>org.apache.camel</groupId>
 			<artifactId>camel-http</artifactId>
 			<version>4.10.2</version>
-			<scope>test</scope>
 		</dependency>
 		<!-- Jackson for JSON processing -->
 		<!-- https://mvnrepository.com/artifact/org.apache.camel/camel-jackson -->
@@ -85,6 +84,13 @@
 			<artifactId>camel-jacksonxml</artifactId>
 			<version>4.10.2</version>
 		</dependency>
+
+		<dependency>
+			<groupId>org.apache.camel.springboot</groupId>
+			<artifactId>camel-servlet-starter</artifactId>
+			<version>4.10.2</version>
+		</dependency>
+
 	</dependencies>
 
 	<build>
