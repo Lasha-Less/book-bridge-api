@@ -31,18 +31,6 @@ public class BookSaveService {
         this.mongoTemplate = mongoTemplate;
     }
 
-//    public int fetchAndSave(String title, String authorFirstName, String authorLastName){
-//        try {
-//            String json = bookSearchService.fetchBooks(title, authorFirstName, authorLastName);
-//            BookResponse bookResponse = objectMapper.readValue(json, BookResponse.class);
-//            List<BookItem> items = bookResponse.getItems();
-//            bookItemRepo.saveAll(items);
-//            return items.size();
-//        } catch (Exception e) {
-//            throw new RuntimeException("Failed to fetch and save books", e);
-//        }
-//    }
-
     public int fetchAndSave(String title, String authorFirstName, String authorLastName) {
         try {
             String json = bookSearchService.fetchBooks(title, authorFirstName, authorLastName);
