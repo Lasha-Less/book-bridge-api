@@ -9,20 +9,25 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@RequestMapping("/api")
+@RequestMapping("/book-bridge/transform")
 public class JsonToXmlController {
 
     @Autowired
     private JsonToXmlService jsonToXmlService;
 
-    @PostMapping(value = "/convert-json-to-xml", consumes = "application/json", produces = "application/xml")
+    @PostMapping(value = "/json-to-xml", consumes = "application/json", produces = "application/xml")
     public ResponseEntity<String> convertJsonToXml(@RequestBody String jsonBody) {
         try {
             String xmlOutput = jsonToXmlService.convertJsonToXml(jsonBody);
             return ResponseEntity.ok(xmlOutput);
         } catch (Exception e) {
-            return ResponseEntity.badRequest().body("Error during transformation: " + e.getMessage());
+            // Check if it's likely a client-side JSON issue
+            if (e.getMessage() != null && e.getMessage().toLowerCase().contains("unrecognized")) {
+                return ResponseEntity.badRequest().body("Invalid JSON format: " + e.getMessage());
+            }
+            return ResponseEntity.internalServerError().body("Unexpected error: " + e.getMessage());
         }
     }
+
 
 }

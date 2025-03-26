@@ -2,8 +2,14 @@ package com.lb.book_bridge_api.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlProperty;
+import org.springframework.data.annotation.Id;
+import org.springframework.data.mongodb.core.mapping.Document;
 
+@Document(collection = "book_extracted_data")
 public class BookItem {
+
+    @Id
+    private String id;
 
     @JacksonXmlProperty(localName = "volumeInfo")
     @JsonProperty("volumeInfo")

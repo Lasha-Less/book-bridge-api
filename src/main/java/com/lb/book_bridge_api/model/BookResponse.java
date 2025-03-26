@@ -9,24 +9,28 @@ import java.util.List;
 @JacksonXmlRootElement(localName = "BookResponse")
 public class BookResponse {
 
+    @JacksonXmlProperty(localName = "kind")
+    @JsonProperty("kind")
     private String kind;
+
+    @JacksonXmlProperty(localName = "totalItems")
+    @JsonProperty("totalItems")
     private int totalItems;
+
+    @JacksonXmlProperty(localName = "items")
+    @JsonProperty("items")
     private List<BookItem> items;
 
-    @JacksonXmlProperty(localName = "kind")
-    @JsonProperty("kind")  // Needed for JSON parsing
+
     public String getKind() {
         return kind;
     }
 
-    @JacksonXmlProperty(localName = "totalItems")
-    @JsonProperty("totalItems")
+
     public int getTotalItems() {
         return totalItems;
     }
 
-    @JacksonXmlProperty(localName = "items")
-    @JsonProperty("items")
     public List<BookItem> getItems() {
         return items;
     }
