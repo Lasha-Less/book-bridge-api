@@ -1,5 +1,6 @@
 package com.lb.book_bridge_api.controller;
 
+import com.lb.book_bridge_api.dto.SaveResult;
 import com.lb.book_bridge_api.service.BookSaveService;
 import com.lb.book_bridge_api.service.BookSearchService;
 import org.springframework.http.MediaType;
@@ -41,9 +42,17 @@ public class BookSearchController {
             @RequestParam(required = false, defaultValue = "") String authorFirstName,
             @RequestParam(required = false, defaultValue = "") String authorLastName) {
 
-        int savedCount = bookSaveService.fetchAndSave(title, authorFirstName, authorLastName);
-        return ResponseEntity.ok("✅ Saved " + savedCount + " book items to MongoDB");
+        SaveResult result = bookSaveService.fetchAndSave(title, authorFirstName, authorLastName);
+
+        if (result.totalFetched() == 0) {
+            return ResponseEntity.ok("ℹ No books found matching the search criteria.");
+        } else if (result.totalSaved() == 0) {
+            return ResponseEntity.ok("ℹ Found " + result.totalFetched() + " book(s) but all were duplicates.");
+        } else {
+            return ResponseEntity.ok("✅ Saved " + result.totalSaved() + " new book(s) out of " + result.totalFetched() + " found.");
+        }
     }
+
 
 
 

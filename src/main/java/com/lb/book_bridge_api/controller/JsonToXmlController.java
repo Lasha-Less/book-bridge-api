@@ -2,7 +2,6 @@ package com.lb.book_bridge_api.controller;
 
 import com.lb.book_bridge_api.service.BookSearchService;
 import com.lb.book_bridge_api.service.JsonToXmlService;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
